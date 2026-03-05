@@ -70,7 +70,8 @@ llm-interpretability-toolkit
 
 This view shows the main interface where the user enters text and observes how the model tokenizes the sentence.
 
-![Dashboard](Screenshot%202026-03-05%20212050.png)
+<img width="887" height="806" alt="Screenshot 2026-03-05 212050" src="https://github.com/user-attachments/assets/57edd044-ee16-47e0-81dd-b2673d8e6da8" />
+
 
 ---
 
@@ -78,7 +79,8 @@ This view shows the main interface where the user enters text and observes how t
 
 The attention heatmap displays how each token attends to other tokens in the sentence. Different layers and attention heads can be selected to explore the model's internal behavior.
 
-![Attention Heatmap](Screenshot%202026-03-05%20212126.png)
+<img width="562" height="702" alt="Screenshot 2026-03-05 212126" src="https://github.com/user-attachments/assets/c635a2b4-5864-4ce8-a323-6cd3db77afcd" />
+
 
 ---
 
@@ -86,7 +88,8 @@ The attention heatmap displays how each token attends to other tokens in the sen
 
 This visualization highlights which tokens contribute most strongly to the model's reasoning based on gradient analysis.
 
-![Token Importance](Screenshot%202026-03-05%20212136.png)
+<img width="558" height="387" alt="Screenshot 2026-03-05 212136" src="https://github.com/user-attachments/assets/eccbebc3-2381-4c84-9d69-02922495c1d6" />
+
 
 ---
 
